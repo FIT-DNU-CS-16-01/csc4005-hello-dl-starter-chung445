@@ -1,9 +1,10 @@
 # CSC4005 – Lab 0 Submission Checklist
 
 ## Thông tin sinh viên
-- Họ tên:
-- MSSV:
-- Lớp:
+- Họ tên:Nguyễn Việt Chung  
+- MSV:1771040005
+- Lớp:KHMT17-01
+
 
 ## Kiểm tra trước khi nộp
 - [ ] Đã tạo môi trường Python riêng cho CSC4005

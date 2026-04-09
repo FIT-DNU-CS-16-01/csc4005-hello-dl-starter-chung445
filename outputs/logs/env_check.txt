@@ -1,0 +1,17 @@
+=== CSC4005 ENVIRONMENT CHECK ===
+Python version: 3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:09:58) [MSC v.1929 64 bit (AMD64)]
+Platform: Windows-11-10.0.26200-SP0
+System: Windows 11
+Import status: SUCCESS
+NumPy version: 2.3.5
+Pandas version: 2.3.3
+Matplotlib version: 3.10.6
+Scikit-learn version: 1.7.2
+PyYAML version: 6.0.3
+Torch version: 2.11.0+cpu
+Torchvision version: 0.26.0+cpu
+Torchaudio version: 2.11.0+cpu
+Detected device: cpu
+Tensor test input shape: (2, 2)
+Linear output shape: (2, 2)
+Basic tensor + linear layer test: SUCCESS
